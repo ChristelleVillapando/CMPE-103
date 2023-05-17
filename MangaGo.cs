@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class MangaGo
 {
     static void Main(string[] args)
     {
